@@ -3,3 +3,4 @@
 <h3>Testing Poll SCM.........</h3>
 <h3>Testing Ansible..........</h3>
 <h3>Testing Ansible to Docker</h3>
+<h3>Testing CICI Pipeline....</h3>
